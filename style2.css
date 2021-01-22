@@ -8,6 +8,7 @@ body {
 
 body{
   color : #34495e;
+  transition: color .5s ease-in-out;
 }   
 
 .clicked{
@@ -23,6 +24,3 @@ body{
   display : block;
 }
 
-h1{
-  
-}
